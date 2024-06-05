@@ -1,0 +1,1 @@
+Original unprocessed data as retrieved by the external data providers should be placed in this folder.
